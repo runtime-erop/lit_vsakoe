@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dr9Yn9unPtE=",
+  "success": true,
+  "projectFilePath": "/home/runtime-erop/lit/lit_c#/lit_c#.csproj",
+  "expectedPackageFiles": [
+    "/home/runtime-erop/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
