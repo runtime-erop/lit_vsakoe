@@ -1,0 +1,14 @@
+/home/runtime-erop/lit/ol/lit_c#/bin/Debug/net9.0/lit_c#
+/home/runtime-erop/lit/ol/lit_c#/bin/Debug/net9.0/lit_c#.deps.json
+/home/runtime-erop/lit/ol/lit_c#/bin/Debug/net9.0/lit_c#.runtimeconfig.json
+/home/runtime-erop/lit/ol/lit_c#/bin/Debug/net9.0/lit_c#.dll
+/home/runtime-erop/lit/ol/lit_c#/bin/Debug/net9.0/lit_c#.pdb
+/home/runtime-erop/lit/ol/lit_c#/obj/Debug/net9.0/lit_c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/runtime-erop/lit/ol/lit_c#/obj/Debug/net9.0/lit_c#.AssemblyInfoInputs.cache
+/home/runtime-erop/lit/ol/lit_c#/obj/Debug/net9.0/lit_c#.AssemblyInfo.cs
+/home/runtime-erop/lit/ol/lit_c#/obj/Debug/net9.0/lit_c#.csproj.CoreCompileInputs.cache
+/home/runtime-erop/lit/ol/lit_c#/obj/Debug/net9.0/lit_c#.dll
+/home/runtime-erop/lit/ol/lit_c#/obj/Debug/net9.0/refint/lit_c#.dll
+/home/runtime-erop/lit/ol/lit_c#/obj/Debug/net9.0/lit_c#.pdb
+/home/runtime-erop/lit/ol/lit_c#/obj/Debug/net9.0/lit_c#.genruntimeconfig.cache
+/home/runtime-erop/lit/ol/lit_c#/obj/Debug/net9.0/ref/lit_c#.dll
